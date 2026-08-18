@@ -1,0 +1,36 @@
+@import "tailwindcss";
+
+@layer base {
+  html {
+    scroll-behavior: smooth;
+    font-family: 'Plus Jakarta Sans', sans-serif;
+  }
+  
+  h1, h2, h3, .font-serif {
+    font-family: 'Cormorant Garamond', Georgia, serif;
+  }
+}
+
+/* Custom scrollbar for boutique luxury feel */
+::-webkit-scrollbar {
+  width: 8px;
+}
+::-webkit-scrollbar-track {
+  background: #090e10;
+}
+::-webkit-scrollbar-thumb {
+  background: #253338;
+  border-radius: 4px;
+}
+::-webkit-scrollbar-thumb:hover {
+  background: #c49a45;
+}
+
+@keyframes pulseGlow {
+  0%, 100% { opacity: 0.4; }
+  50% { opacity: 0.8; }
+}
+
+.glow-animation {
+  animation: pulseGlow 4s cubic-bezier(0.4, 0, 0.6, 1) infinite;
+}
