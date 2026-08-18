@@ -98,7 +98,7 @@ export const RestaurantSection: React.FC<RestaurantSectionProps> = ({ currentLan
           <div className="lg:col-span-6 relative">
             <div className="relative rounded-3xl overflow-hidden border border-[#2c3d44] shadow-2xl group">
               <img 
-                src="/src/assets/images/edelveiss_restaurant_1787050874317.jpg" 
+                src="/images/edelveiss_restaurant_1787050874317.jpg"
                 alt="Edelveiss Tavern with Fireplace" 
                 className="w-full h-[380px] sm:h-[440px] object-cover transition-transform duration-700 group-hover:scale-105"
                 referrerPolicy="no-referrer"

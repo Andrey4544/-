@@ -60,13 +60,13 @@ export const Hero: React.FC<HeroProps> = ({
       {/* Background Image with Dark Vignette & Alpine Gradient */}
       <div className="absolute inset-0 z-0">
         <img 
-          src="/src/assets/images/edelveiss_hero_1787050830631.jpg" 
+          src="/images/edelveiss_hero_1787050830631.jpg"
           alt="Edelveiss Mountain Guest House in Gabrovo" 
           className="w-full h-full object-cover object-center scale-105 transform duration-1000 ease-out"
           referrerPolicy="no-referrer"
         />
-        <div className="absolute inset-0 bg-gradient-to-t from-[#090e10] via-[#090e10]/65 to-[#090e10]/75" />
-        <div className="absolute inset-0 bg-[radial-gradient(ellipse_at_center,_var(--tw-gradient-stops))] from-transparent via-[#090e10]/40 to-[#090e10]" />
+        <div className="absolute inset-0 bg-gradient-to-t from-[#090e10]/48 via-[#090e10]/24 to-[#090e10]/30" />
+        <div className="absolute inset-0 bg-[radial-gradient(ellipse_at_center,_var(--tw-gradient-stops))] from-transparent via-[#090e10]/10 to-[#090e10]/42" />
       </div>
 
       <div className="relative z-10 max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 w-full flex flex-col items-center text-center">

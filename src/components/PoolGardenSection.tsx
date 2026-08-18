@@ -81,7 +81,7 @@ export const PoolGardenSection: React.FC<PoolGardenSectionProps> = ({ currentLan
           <div className="lg:col-span-7 relative">
             <div className="relative rounded-3xl overflow-hidden border border-[#263840] shadow-2xl group">
               <img 
-                src="/src/assets/images/edelveiss_pool_1787050889240.jpg" 
+                src="/images/edelveiss_pool_garden_1787050888910.jpg"
                 alt="Edelveiss Heated Swimming Pool & Garden" 
                 className="w-full h-[400px] sm:h-[480px] object-cover transition-transform duration-700 group-hover:scale-105"
                 referrerPolicy="no-referrer"

@@ -79,7 +79,7 @@ export const AboutSection: React.FC<AboutSectionProps> = ({ currentLang, onScrol
           <div className="lg:col-span-6 relative">
             <div className="relative rounded-3xl overflow-hidden border border-[#2a3c44] shadow-2xl group">
               <img 
-                src="/src/assets/images/edelveiss_hero_1787050830631.jpg" 
+                src="/images/edelveiss_hero_1787050830631.jpg"
                 alt="Edelveiss Mountain Complex in Gabrovo" 
                 className="w-full h-[420px] sm:h-[480px] object-cover transition-transform duration-700 group-hover:scale-105"
                 referrerPolicy="no-referrer"

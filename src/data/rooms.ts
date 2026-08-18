@@ -11,9 +11,9 @@ export const ROOMS_DATA: Room[] = [
     sizeSqm: 26,
     priceBgnPerNight: 140,
     priceEurPerNight: 72,
-    coverImage: '/src/assets/images/edelveiss_room_1787050845715.jpg',
+    coverImage: '/images/edelveiss_room_1787050845715.jpg',
     galleryImages: [
-      '/src/assets/images/edelveiss_room_1787050845715.jpg',
+      '/images/edelveiss_room_1787050845715.jpg',
       'https://images.unsplash.com/photo-1590490360182-c33d57733427?auto=format&fit=crop&w=1200&q=80',
       'https://images.unsplash.com/photo-1582719478250-c89cae4dc85b?auto=format&fit=crop&w=1200&q=80'
     ],
@@ -35,7 +35,7 @@ export const ROOMS_DATA: Room[] = [
     coverImage: 'https://images.unsplash.com/photo-1566665797739-1674de7a421a?auto=format&fit=crop&w=1200&q=80',
     galleryImages: [
       'https://images.unsplash.com/photo-1566665797739-1674de7a421a?auto=format&fit=crop&w=1200&q=80',
-      '/src/assets/images/edelveiss_room_1787050845715.jpg',
+      '/images/edelveiss_room_1787050845715.jpg',
       'https://images.unsplash.com/photo-1578683010236-d716f9a3f461?auto=format&fit=crop&w=1200&q=80'
     ],
     features: ['Private Balcony with seating', 'Pool & Forest view', 'Floor-to-ceiling windows', 'Smart TV 50"'],
@@ -55,7 +55,7 @@ export const ROOMS_DATA: Room[] = [
     coverImage: 'https://images.unsplash.com/photo-1618773928121-c32242e63f39?auto=format&fit=crop&w=1200&q=80',
     galleryImages: [
       'https://images.unsplash.com/photo-1618773928121-c32242e63f39?auto=format&fit=crop&w=1200&q=80',
-      '/src/assets/images/edelveiss_room_1787050845715.jpg'
+      '/images/edelveiss_room_1787050845715.jpg'
     ],
     features: ['Ultra quiet woodland wing', 'Hydro-massage shower', 'Reading nook', 'Fast Wi-Fi'],
     amenities: ['Hydro shower', 'Air conditioning', 'Mini-bar', 'Bathrobes', 'Soundproof walls', 'Blackout curtains'],
@@ -73,7 +73,7 @@ export const ROOMS_DATA: Room[] = [
     coverImage: 'https://images.unsplash.com/photo-1591088398332-8a7791972843?auto=format&fit=crop&w=1200&q=80',
     galleryImages: [
       'https://images.unsplash.com/photo-1591088398332-8a7791972843?auto=format&fit=crop&w=1200&q=80',
-      '/src/assets/images/edelveiss_room_1787050845715.jpg'
+      '/images/edelveiss_room_1787050845715.jpg'
     ],
     features: ['Velvet decor accents', 'Ambient lighting', 'Mountain breeze view', 'Complimentary wine bottle on arrival'],
     amenities: ['Air conditioning', 'Welcome wine', 'Organic toiletries', 'Safe box', 'Espresso maker', 'Bathrobes'],
@@ -89,9 +89,9 @@ export const ROOMS_DATA: Room[] = [
     sizeSqm: 75,
     priceBgnPerNight: 280,
     priceEurPerNight: 144,
-    coverImage: '/src/assets/images/edelveiss_suite_1787050860145.jpg',
+    coverImage: '/images/edelveiss_suite_1787050860145.jpg',
     galleryImages: [
-      '/src/assets/images/edelveiss_suite_1787050860145.jpg',
+      '/images/edelveiss_suite_1787050860145.jpg',
       'https://images.unsplash.com/photo-1600210492486-724fe5c67fb0?auto=format&fit=crop&w=1200&q=80',
       'https://images.unsplash.com/photo-1600585154340-be6161a56a0c?auto=format&fit=crop&w=1200&q=80'
     ],
@@ -110,12 +110,12 @@ export const ROOMS_DATA: Room[] = [
     sizeSqm: 380,
     priceBgnPerNight: 820,
     priceEurPerNight: 420,
-    coverImage: '/src/assets/images/edelveiss_hero_1787050830631.jpg',
+    coverImage: '/images/edelveiss_hero_1787050830631.jpg',
     galleryImages: [
-      '/src/assets/images/edelveiss_hero_1787050830631.jpg',
-      '/src/assets/images/edelveiss_pool_garden_1787050888910.jpg',
-      '/src/assets/images/edelveiss_restaurant_1787050874317.jpg',
-      '/src/assets/images/edelveiss_suite_1787050860145.jpg'
+      '/images/edelveiss_hero_1787050830631.jpg',
+      '/images/edelveiss_pool_garden_1787050888910.jpg',
+      '/images/edelveiss_restaurant_1787050874317.jpg',
+      '/images/edelveiss_suite_1787050860145.jpg'
     ],
     features: ['Exclusive privacy for your group', 'Private access to restaurant/mehana', 'Full BBQ & pool garden access', 'Accommodates up to 14 guests', 'Sound system & event setup'],
     amenities: ['Complete complex buyout', 'Exclusive heated pool use', 'Tavern with fireplace for private parties', 'Professional kitchen access or catering', 'All 5 private bathrooms', 'Parking for up to 6 vehicles', 'Dedicated host on site'],
