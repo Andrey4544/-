@@ -267,6 +267,7 @@ export const ContactFooter: React.FC<ContactFooterProps> = ({ currentLang, onOpe
         </div>
 
       </div>
+    <div className="pt-3 text-center text-[11px] opacity-75"><a href="https://ar-studio.site" className="hover:underline">Website made by AR Studio</a></div>
     </footer>
   );
 };
